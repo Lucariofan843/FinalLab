@@ -116,7 +116,7 @@
     <option name="width" value="973" />
     <option name="height" value="934" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -249,7 +249,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85022000" />
+    <option name="totallyTimeSpent" value="85854000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,7 +264,7 @@
     <frame x="658" y="82" width="973" height="934" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22887701" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22887701" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -277,7 +277,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32958803" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32709113" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4992658" visible="true" weight="0.32958803" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4992658" visible="true" weight="0.32958803" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007342" side_tool="true" weight="0.32958803" />
       <window_info active="true" anchor="bottom" id="SVN Repositories" order="11" weight="0.32958803" />
       <window_info active="true" anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.32958803" />
@@ -473,16 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="353">
-            <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -527,6 +517,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="493">
+            <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
